@@ -1,0 +1,174 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 19 Jan 2020 11:30:59 at http://radixtouch.in/templates/admin/smart/source/light/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://radixtouch.in/templates/admin/smart/source/light/ -O1 "C:\My Web Sites\college admin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:33:55	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/prof/prof3.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:33:55	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/user_profile.html (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:33:55	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/lock_screen.html (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:34:56	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fees_collection.html (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:34:57	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/add_fees.html (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:02	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/wizard.html (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:46	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/std/std5.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:46	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/prof/prof7.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:47	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/prof/prof6.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:52	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/prof/prof9.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:54	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/popper/popper.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:54	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:57	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/sparkline/jquery.sparkline.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:58	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/sparkline/sparkline-data.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:36:58	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/layout.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:37:03	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0 (from radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/simple-line-icons.min.css)
+
+11:37:08	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0 (from radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/simple-line-icons.min.css)
+
+11:37:09	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/font-awesome/fonts/fontawesome-webfont.eot? (from radixtouch.in/templates/admin/smart/source/light/fonts/font-awesome/css/font-awesome.min.css)
+
+11:37:17	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from radixtouch.in/templates/admin/smart/source/light/fonts/font-awesome/css/font-awesome.min.css)
+
+11:37:34	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/material-design-icons/iconfont/MaterialIcons-Regular.woff2 (from radixtouch.in/templates/admin/smart/source/light/fonts/material-design-icons/material-icon.css)
+
+11:37:36	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/summernote/font/summernote.eot?0d0d5fac99cc8774d89eb08b1a8323c4 (from radixtouch.in/templates/admin/smart/source/assets/plugins/summernote/summernote.css)
+
+11:37:39	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/img/datatable-row-openclose.png (from radixtouch.in/templates/admin/smart/source/assets/css/plugins.min.css)
+
+11:37:39	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/css/theme/light/images/arrow-down.png (from radixtouch.in/templates/admin/smart/source/assets/css/theme/light/style.css)
+
+11:37:39	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/css/theme/img/remove-icon-small.png (from radixtouch.in/templates/admin/smart/source/assets/css/theme/light/style.css)
+
+11:37:41	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/light/book_appointment_material.html (from radixtouch.in/templates/admin/smart/source/light/dashboard2.html)
+
+11:37:41	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/std/std7.jpg (from radixtouch.in/templates/admin/smart/source/light/dashboard2.html)
+
+11:37:42	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/counterup/jquery.counterup.min.js (from radixtouch.in/templates/admin/smart/source/light/dashboard2.html)
+
+11:37:43	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/fullcalendar/fullcalendar.min.js (from radixtouch.in/templates/admin/smart/source/light/event.html)
+
+11:37:45	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/calendar/calendar.min.js (from radixtouch.in/templates/admin/smart/source/light/event.html)
+
+11:37:46	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/material-datetimepicker/datetimepicker.js (from radixtouch.in/templates/admin/smart/source/light/add_professor.html)
+
+11:37:47	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/dropzone/dropzone.js (from radixtouch.in/templates/admin/smart/source/light/add_professor.html)
+
+11:37:58	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/mega-img3.jpg (from radixtouch.in/templates/admin/smart/source/light/professor_profile.html)
+
+11:37:58	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/fullimage2.jpg (from radixtouch.in/templates/admin/smart/source/light/professor_profile.html)
+
+11:38:06	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/javasctipt() (from radixtouch.in/templates/admin/smart/source/light/all_students.html)
+
+11:38:07	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/light/add_staff_material.html (from radixtouch.in/templates/admin/smart/source/light/all_staffs.html)
+
+11:38:10	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/slider3.jpg (from radixtouch.in/templates/admin/smart/source/light/widget.html)
+
+11:38:20	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/blog/blog3.jpg (from radixtouch.in/templates/admin/smart/source/light/widget.html)
+
+11:38:20	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/owl-carousel/owl.carousel.js (from radixtouch.in/templates/admin/smart/source/light/widget.html)
+
+11:38:26	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/treeview/treeview-data.js (from radixtouch.in/templates/admin/smart/source/light/ui_tree.html)
+
+11:38:29	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/owl3.jpg (from radixtouch.in/templates/admin/smart/source/light/ui_carousel.html)
+
+11:38:29	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/owl5.jpg (from radixtouch.in/templates/admin/smart/source/light/ui_carousel.html)
+
+11:38:30	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/owl7.jpg (from radixtouch.in/templates/admin/smart/source/light/ui_carousel.html)
+
+11:38:35	Warning: 	file not stored in cache due to bogus state (broken size, expected 1217293 got 960818): radixtouch.in/templates/admin/smart/source/assets/plugins/datatables/export/pdfmake.min.js
+
+11:38:35	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/bootstrap-datetimepicker/css/bootstrap-datetimepicker.min.css (from radixtouch.in/templates/admin/smart/source/light/advance_form.html)
+
+11:38:42	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.min.js (from radixtouch.in/templates/admin/smart/source/light/validation_form.html)
+
+11:38:43	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/datatables/export/buttons.flash.min.js (from radixtouch.in/templates/admin/smart/source/light/export_table.html)
+
+11:38:43	Warning: 	Retry after error -4 (Incorrect length (960818 Bytes, 1217293 expected)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/datatables/export/pdfmake.min.js (from radixtouch.in/templates/admin/smart/source/light/export_table.html)
+
+11:38:45	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/datatables/export/vfs_fonts.js (from radixtouch.in/templates/admin/smart/source/light/export_table.html)
+
+11:38:46	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/morris/raphael-min.js (from radixtouch.in/templates/admin/smart/source/light/charts_morris.html)
+
+11:38:49	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/chart/chartjs/chartjs-data.js (from radixtouch.in/templates/admin/smart/source/light/charts_chartjs.html)
+
+11:38:50	Warning: 	Retry after error 502 (Server Hangup) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jqvmap/maps/jquery.vmap.russia.js (from radixtouch.in/templates/admin/smart/source/light/vector_maps.html)
+
+11:39:03	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jqvmap/maps/jquery.vmap.europe.js (from radixtouch.in/templates/admin/smart/source/light/vector_maps.html)
+
+11:39:14	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jqvmap/maps/jquery.vmap.usa.js (from radixtouch.in/templates/admin/smart/source/light/vector_maps.html)
+
+11:39:19	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/prof/prof7.jpg (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:39:21	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/popper/popper.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:39:22	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/sparkline/sparkline-data.js (from radixtouch.in/templates/admin/smart/source/light/)
+
+11:39:22	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0 (from radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/simple-line-icons.min.css)
+
+11:39:23	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/std/std7.jpg (from radixtouch.in/templates/admin/smart/source/light/dashboard2.html)
+
+11:39:24	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/mega-img3.jpg (from radixtouch.in/templates/admin/smart/source/light/professor_profile.html)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/light/javasctipt() (from radixtouch.in/templates/admin/smart/source/light/all_students.html)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/img/error.png (from radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/img/play-pause.png (from radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/img/video-play.png (from radixtouch.in/templates/admin/smart/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/owl-carousel/grabbing.png (from radixtouch.in/templates/admin/smart/source/assets/plugins/owl-carousel/owl.carousel.css)
+
+11:39:25	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/smart/source/assets/plugins/owl-carousel/AjaxLoader.gif (from radixtouch.in/templates/admin/smart/source/assets/plugins/owl-carousel/owl.theme.css)
+
+11:39:25	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/blog/blog3.jpg (from radixtouch.in/templates/admin/smart/source/light/widget.html)
+
+11:39:25	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/img/slider/owl3.jpg (from radixtouch.in/templates/admin/smart/source/light/ui_carousel.html)
+
+11:39:30	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/steps/steps-data.js (from radixtouch.in/templates/admin/smart/source/light/wizard.html)
+
+11:39:30	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/bootstrap-editable/bootstrap-editable/img/loading.gif (from radixtouch.in/templates/admin/smart/source/assets/plugins/bootstrap-editable/bootstrap-editable/css/bootstrap-editable.css)
+
+11:39:31	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/plugins/datatables/export/vfs_fonts.js (from radixtouch.in/templates/admin/smart/source/light/export_table.html)
+
+11:39:34	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/chart/chartjs/chartjs-data.js (from radixtouch.in/templates/admin/smart/source/light/charts_chartjs.html)
+
+11:39:34	Error: 	"No data (connection closed)" (-4) after 2 retries at link radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff?v=2.4.0 (from radixtouch.in/templates/admin/smart/source/light/fonts/simple-line-icons/simple-line-icons.min.css)
+
+11:39:35	Error: 	"No data (connection closed)" (-4) after 2 retries at link radixtouch.in/templates/admin/smart/source/assets/img/blog/blog3.jpg (from radixtouch.in/templates/admin/smart/source/light/widget.html)
+
+11:39:36	Warning: 	Retry after error -4 (No data (connection closed)) at link radixtouch.in/templates/admin/smart/source/assets/js/pages/steps/steps-data.js (from radixtouch.in/templates/admin/smart/source/light/wizard.html)
+
+11:40:10	Error: 	"No data (connection closed)" (-4) after 2 retries at link radixtouch.in/templates/admin/smart/source/assets/js/pages/chart/chartjs/chartjs-data.js (from radixtouch.in/templates/admin/smart/source/light/charts_chartjs.html)
+
+11:40:10	Error: 	"No data (connection closed)" (-4) after 2 retries at link radixtouch.in/templates/admin/smart/source/assets/js/pages/steps/steps-data.js (from radixtouch.in/templates/admin/smart/source/light/wizard.html)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 11 seconds : 372 links scanned, 296 files written (20057304 bytes overall) [14433415 bytes received at 26194 bytes/sec], 6470159 bytes transferred using HTTP compression in 95 files, ratio 11%, 3.8 requests per connection
+
+(16 errors, 60 warnings, 0 messages)
+
